@@ -6,4 +6,5 @@ Olá ! bem vindo ao livro do git :wave:
 - "git add" serve para adicionar os arquivos no modo staged
 - "git commit -m "msg" " comito os arquivos no repositório já modificados
 - teste de usuario
+- segundo teste de usuario
  
