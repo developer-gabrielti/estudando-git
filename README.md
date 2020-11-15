@@ -6,5 +6,5 @@ Olá ! bem vindo ao livro do git :wave:
 - "git add nomedoarquivo" serve para adicionar os arquivos no modo staged
 - "git add * ou git add ." adiciona todos os arquivos para o modo staged
 - "git commit -m "msg" " comito os arquivos no repositório já modificados
-- "git remote add origin "url do repositorio" serve para apontar um repositório local para um repositório remoto 
+- "git remote add origin "url do repositorio" serve para apontar um repositório local para um repositório remoto (subir um repositório local para o git)
 - "git clone (https://git que deseja clonar)" git clone serve para puxar um repositóiro do perfil de algum desenvolvedor
