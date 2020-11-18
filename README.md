@@ -6,6 +6,7 @@ Olá ! bem vindo ao livro do git :wave:
 - "git add nomedoarquivo" serve para adicionar os arquivos no modo staged
 - "git add * ou git add ." adiciona todos os arquivos para o modo staged
 - "git commit -m "msg" " comito os arquivos no repositório já modificados
-- "git push origin" serve para poder enviar as alterações feitas para o repositório do github.
+- "git push origin master" serve para poder enviar as alterações feitas para o repositório do github.
 - "git remote add origin "url do repositorio" serve para apontar um repositório local para um repositório remoto (subir um repositório local para o git)
 - "git clone (https://git que deseja clonar)" git clone serve para puxar um repositóiro do perfil de algum desenvolvedor
+- "git pull origin " serve para poder puxar as alterações que ocorreram nos arquivos que já estão no github
